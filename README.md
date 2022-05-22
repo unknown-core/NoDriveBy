@@ -1,0 +1,2 @@
+# NoDriveBy
+Disables shooting
