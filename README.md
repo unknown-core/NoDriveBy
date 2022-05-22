@@ -1,2 +1,2 @@
 # NoDriveBy
-Disables shooting
+Disables shooting from a vehicle
